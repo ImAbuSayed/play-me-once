@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Play Me Once
+
+This log tracks the cryptographic history and versioning for the song **Play Me Once** (play-me-once).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T21:33:31.974750 | `v1` | `2c68483e7435c0c40d0f68ffe97a99f9d4a0adddc579be83b744764a6af4565f` | `deb40ed81a42a6c6c495bc9879a82ec22ec5213dd19c6c3921840cb045bb20ff` | `2026-05-18_play-me-once-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

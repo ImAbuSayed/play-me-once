@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/play-me-once/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Play Me Once](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/play-me-once/) |
+| **Get License** | [Commercial Licensing for Play Me Once](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/play-me-once/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਮੇਰੇ ਦਿਲ ਵਿੱਚ ਵੱਸਦੀ ਏਂ ਤੂੰ
+> ਨਜ਼ਰਾਂ ਨਾਲ ਹੱਸਦੀ ਏਂ ਤੂੰ
+> ਅੱਧੀ ਰਾਤ ਜਦੋਂ ਨੀਂਦ ਨਾ ਆਵੇ
+> ਕੱਲਾ ਮੈਂ ਤੱਕਦਾ ਹਾਂ ਤੈਨੂੰ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
